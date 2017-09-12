@@ -1,0 +1,17 @@
+
+.navbar {
+    border-radius: 0px;
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.navbar-brand {
+font-size: 22px;
+}
+.navbar-nav {
+    float: right;
+}
